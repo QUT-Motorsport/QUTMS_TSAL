@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [QUTMS-TSAL.PrjPcb]
+   Generated File[QUTMS-TSAL-B00.TXT]
+   Generated File[QUTMS-TSAL-B00.LDP]
+   Generated File[QUTMS-TSAL-B00.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:46:19 PM On 28/07/2020

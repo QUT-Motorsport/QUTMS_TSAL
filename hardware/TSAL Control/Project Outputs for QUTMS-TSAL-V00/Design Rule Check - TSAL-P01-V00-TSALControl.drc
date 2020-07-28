@@ -1,18 +1,10 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\User\OneDrive - Queensland University of Technology\2020 QUTMS\QUTMS_BMS_Interface_V1\TSAL-P01-V00-TSALControl.PcbDoc
-Date     : 28/07/2020
-Time     : 12:43:41 PM
+Date     : 29/07/2020
+Time     : 1:23:40 AM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
-   Violation between Clearance Constraint: (Collision < 10mil) Between Arc (1208.661mil,4224.409mil) on Keep-Out Layer And Pad FID1-1(1208.661mil,4224.409mil) on Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 10mil) Between Arc (1208.661mil,4224.409mil) on Keep-Out Layer And Pad FID1-1(1208.661mil,4224.409mil) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 10mil) Between Arc (1220.472mil,4409.449mil) on Keep-Out Layer And Pad M1-1(1220.472mil,4409.449mil) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 10mil) Between Arc (1842.52mil,3685.039mil) on Keep-Out Layer And Pad FID2-1(1842.52mil,3685.039mil) on Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 10mil) Between Arc (1842.52mil,3685.039mil) on Keep-Out Layer And Pad FID2-1(1842.52mil,3685.039mil) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 10mil) Between Arc (2724.409mil,4377.953mil) on Keep-Out Layer And Pad FID3-1(2724.409mil,4377.953mil) on Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 10mil) Between Arc (2724.409mil,4377.953mil) on Keep-Out Layer And Pad FID3-1(2724.409mil,4377.953mil) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 10mil) Between Arc (2952.756mil,4409.449mil) on Keep-Out Layer And Pad M2-1(2952.756mil,4409.449mil) on Multi-Layer 
-Rule Violations :8
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -23,7 +15,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=10mil) (Max=20mil) (Preferred=10mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -51,6 +43,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 8
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:01

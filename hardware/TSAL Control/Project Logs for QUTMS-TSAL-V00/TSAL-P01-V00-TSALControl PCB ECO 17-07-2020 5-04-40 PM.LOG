@@ -1,0 +1,146 @@
+Added Component: Designator=C1(Cap_Ceramic_0603)
+Added Component: Designator=C2(Cap_Ceramic_1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM155R71E103JA01J/490-6340-1-ND/3845537"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71E103JA01-01.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=C3(Cap_Ceramic_1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/tdk-corporation/C3216X5R1V226M160AC/445-8045-1-ND/2792165"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Cap_Ceramic_0603)
+Added Component: Designator=D1(SOD-323F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/on-semiconductor/MM3Z56VB/MM3Z56VBCT-ND/1626897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.onsemi.com/pub/Collateral/MM3Z9V1B-D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "MM3Z56VB"; VariantName = "[No Variations]"
+Added Component: Designator=J1(Microfit_1X2_R_SMD)
+Added Component: Designator=J2(Microfit_2X3_R_SMD)
+Added Component: Designator=Q1(SOT-23-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pub/Collateral/CPH3351-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en/discrete-semiconductor-products/transistors-fets-mosfets-single/278?k=&pkeyword=&sv=0&pv7=2&sf=0&FV=-1%7C488%2C-8%7C278&mpart=CPH3351-TL-W&quantity=&ColumnSort=0&page=1&stock=1&nstock=1&datasheet=1&photo=1&pageSize=25"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pub/Collateral/CPH3351-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en/discrete-semiconductor-products/transistors-fets-mosfets-single/278?k=&pkeyword=&sv=0&pv7=2&sf=0&FV=-1%7C488%2C-8%7C278&mpart=CPH3351-TL-W&quantity=&ColumnSort=0&page=1&stock=1&nstock=1&datasheet=1&photo=1&pageSize=25"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT-23-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pub/Collateral/CPH3351-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en/discrete-semiconductor-products/transistors-fets-mosfets-single/278?k=&pkeyword=&sv=0&pv7=2&sf=0&FV=-1%7C488%2C-8%7C278&mpart=CPH3351-TL-W&quantity=&ColumnSort=0&page=1&stock=1&nstock=1&datasheet=1&photo=1&pageSize=25"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Res_ThinFilm_0603)
+Added Component: Designator=R2(Res_ThinFilm_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/panasonic-electronic-components/ERA-2AEB513X/P51KDCCT-ND/1706224"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Resistors%20Thermistors%20PDFs/ERA_Series_LE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/DMM0000COL9.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Res_ThinFilm_1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/yageo/RC1206FR-07220RL/311-220FRCT-ND/731640"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Res_ThinFilm_0603)
+Added Component: Designator=U1(MCP2561 SOIC)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/texas-instruments/LM555CMX%2FNOPB/LM555CMX%2FNOPBCT-ND/1010545?utm_adgroup=Integrated%20Circuits&utm_source=google&utm_medium=cpc&utm_campaign=Dynamic%20Search_EN_Product&utm_term=&productid=&gclid=CjwKCAjwr7X4BRA4EiwAUXjbt-N3vibcCncJp7dB6lpBrLRT-QxYTJoHZmGPqFSswFIeP9Lhu7cYVBoCjmMQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm555"; VariantName = "[No Variations]"
+Added Component: Designator=U3(FOD817ASD)
+Added Component: Designator=U?(CD4049UB)
+Added Component: Designator=U?(CD4049UB)
+Added Component: Designator=U?(CD4049UB)
+Added Component: Designator=U?(CD4049UB)
+Added Component: Designator=U?(CD4049UB)
+Added Component: Designator=U?(CD4049UB)
+Added Component: Designator=U?(CD4049UB)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=THRESH-TRIG Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=12V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=12V Pin=C4-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=HV IN Pin=J1-1
+Added Pin To Net: NetName=HV OUT Pin=J1-2
+Added Pin To Net: NetName=12V Pin=J2-1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Pin To Net: NetName=12V Pin=Q1-D
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-G
+Added Pin To Net: NetName=NetJ2_2 Pin=Q1-S
+Added Pin To Net: NetName=12V Pin=Q2-D
+Added Pin To Net: NetName=NetQ2_G Pin=Q2-G
+Added Pin To Net: NetName=NetJ2_3 Pin=Q2-S
+Added Pin To Net: NetName=12V Pin=Q3-D
+Added Pin To Net: NetName=HV ON Pin=Q3-G
+Added Pin To Net: NetName=NetJ2_6 Pin=Q3-S
+Added Pin To Net: NetName=RED LED SPLIT Pin=R1-1
+Added Pin To Net: NetName=HV ON Pin=R1-2
+Added Pin To Net: NetName=THRESH-TRIG Pin=R2-1
+Added Pin To Net: NetName=RED LED SPLIT Pin=R2-2
+Added Pin To Net: NetName=NetD1_2 Pin=R3-1
+Added Pin To Net: NetName=HV IN Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=12V Pin=R4-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=THRESH-TRIG Pin=U1-2
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=HV ON Pin=U1-4
+Added Pin To Net: NetName=NetC2_2 Pin=U1-5
+Added Pin To Net: NetName=THRESH-TRIG Pin=U1-6
+Added Pin To Net: NetName=RED LED SPLIT Pin=U1-7
+Added Pin To Net: NetName=HV ON Pin=U1-8
+Added Pin To Net: NetName=NetD1_1 Pin=U3-1
+Added Pin To Net: NetName=HV OUT Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=NetR4_1 Pin=U3-4
+Added Pin To Net: NetName=12V Pin=U?-1
+Added Pin To Net: NetName=HV ON Pin=U?-2
+Added Pin To Net: NetName=NetR4_1 Pin=U?-3
+Added Pin To Net: NetName=NetQ1_G Pin=U?-4
+Added Pin To Net: NetName=NetU1_3 Pin=U?-5
+Added Pin To Net: NetName=NetQ2_G Pin=U?-6
+Added Pin To Net: NetName=HV ON Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-14
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component C1 4u7 50V
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component C2 10nF 25V 5% X7R 0402
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component C3 22uF 35V
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component C4 100nF 50V
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component D1 MM3Z56VB
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component J1 Microfit 3.0 1x2
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component J2 Microfit 3.0 2x3
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component Q1 CPH3351
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component Q2 CPH3351
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component Q3 CPH3351
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component R1 1k
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component R2 51k
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component R3 220R 5% 1206
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component R4 1k 5% 0603
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component U1 LM555CMX
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component U3 FOD817ASD
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component U? CD4049UB
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component U? CD4049UB
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component U? CD4049UB
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component U? CD4049UB
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component U? CD4049UB
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component U? CD4049UB
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component U? CD4049UB
+Added Room: Name=TSAL-S01-V00-Control

@@ -2,39 +2,6 @@
 FileName = TSAL-P01-V00-TSALControl.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : TSAL-P01-V00-TSALControl.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : TSAL-P01-V00-TSALControl.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D38
-    D39
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : TSAL-P01-V00-TSALControl.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : TSAL-P01-V00-TSALControl.GBS
 
@@ -46,11 +13,11 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D18
-    D23
+    D16
     D24
     D25
     D26
+    D27
 *************************************************************
 
 *************************************************************
@@ -78,6 +45,7 @@ Used DCodes :
     D24
     D25
     D26
+    D27
 *************************************************************
 
 *************************************************************
@@ -95,22 +63,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : TSAL-P01-V00-TSALControl.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D31
-    D36
-    D37
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : TSAL-P01-V00-TSALControl.GTL
 
@@ -121,7 +73,6 @@ Generating : Top Layer
 
 Used DCodes :
     D11
-    D27
     D28
     D29
     D30
@@ -132,5 +83,57 @@ Used DCodes :
     D35
     D36
     D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : TSAL-P01-V00-TSALControl.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D30
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : TSAL-P01-V00-TSALControl.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : TSAL-P01-V00-TSALControl.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : TSAL-P01-V00-TSALControl.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D41
+    D42
 *************************************************************
 

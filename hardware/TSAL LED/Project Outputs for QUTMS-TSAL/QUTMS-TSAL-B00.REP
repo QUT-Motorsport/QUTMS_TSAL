@@ -2,54 +2,6 @@
 FileName = QUTMS-TSAL-B00.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : QUTMS-TSAL-B00.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : QUTMS-TSAL-B00.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : QUTMS-TSAL-B00.GBS
 
@@ -68,6 +20,17 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Overlay
+      File : QUTMS-TSAL-B00.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D40
+*************************************************************
+
+*************************************************************
 Generating : Mechanical 1
       File : QUTMS-TSAL-B00.GM1
 
@@ -75,7 +38,7 @@ Generating : Mechanical 1
 
 
 Used DCodes :
-    D12
+    D11
 *************************************************************
 
 *************************************************************
@@ -86,17 +49,6 @@ Generating : Keep-Out Layer
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : QUTMS-TSAL-B00.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D40
 *************************************************************
 
 *************************************************************
@@ -136,5 +88,53 @@ Used DCodes :
     D10
     D11
     D12
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : QUTMS-TSAL-B00.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : QUTMS-TSAL-B00.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
 *************************************************************
 

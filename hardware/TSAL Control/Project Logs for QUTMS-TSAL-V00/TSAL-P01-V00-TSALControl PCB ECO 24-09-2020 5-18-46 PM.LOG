@@ -1,0 +1,10 @@
+Added Component: Designator=LOGO1(QUTMS LOGO 20MM)
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component C1 4u7 50V
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component C3 22uF 35V
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component LOGO1 20mm Wide QUTMS Logo
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component Q2 CPH3351
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component R3 220R 5% 1206
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component U1 LM555CMX
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component U2 CD4049UB
+Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component U3 FOD817ASD
+Added Room: Name=TSAL-S01-V00-Control

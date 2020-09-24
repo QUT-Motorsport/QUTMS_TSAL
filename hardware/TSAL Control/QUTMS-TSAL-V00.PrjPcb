@@ -735,6 +735,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ULAYSQXI
 
 [Document42]
+DocumentPath=QUTMS-BMS-V00.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LFBCJQFU
+
+[Document43]
 DocumentPath=StandardCapacitors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document44]
 DocumentPath=StandardCapacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WFWZTUBU
 
-[Document44]
+[Document45]
 DocumentPath=StandardResistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document46]
 DocumentPath=StandardResistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEIOKSWG
 
-[Document46]
+[Document47]
 DocumentPath=StandardTest.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document48]
 DocumentPath=StandardTest.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZUGZGKQV
 
-[Document48]
+[Document49]
 DocumentPath=TSAL-S01-V00-Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -853,7 +870,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LMXFRCSI
 
-[Document49]
+[Document50]
 DocumentPath=QUTMS_IntegratedCircuitLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -870,7 +887,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGZYVCIT
 
-[Document50]
+[Document51]
 DocumentPath=QUTMS_IntegratedCircuitLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -887,7 +904,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LVJNOUNH
 
-[Document51]
+[Document52]
 DocumentPath=QUTMS_LogicLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -904,7 +921,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XPROUAQE
 
-[Document52]
+[Document53]
 DocumentPath=QUTMS-TSAL-V00.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -921,7 +938,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document54]
 DocumentPath=TSAL-P01-V00-TSALControl.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -938,8 +955,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDYBPFTT
 
-[Document54]
+[Document55]
 DocumentPath=QUTMS_LogicLibrary.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document56]
+DocumentPath=TSAL Control Export\TSAL-Control-Gerber.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document57]
+DocumentPath=TSAL Control Export\TSAL-Control-NCdrill.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document58]
+DocumentPath=Project Outputs for QUTMS-TSAL-V00\TSAL-P01-V00-TSALControl.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1067,7 +1135,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Brother MFC-L2750DW series
+TargetPrinter=Canon MB5400 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -1173,7 +1241,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother MFC-L2750DW series
+TargetPrinter=Canon MB5400 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1251,7 +1319,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Brother MFC-L2750DW series
+TargetPrinter=Canon MB5400 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1273,7 +1341,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Brother MFC-L2750DW series
+TargetPrinter=Canon MB5400 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -1353,7 +1421,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Brother MFC-L2750DW series
+TargetPrinter=Canon MB5400 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1390,7 +1458,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Brother MFC-L2750DW series
+TargetPrinter=Canon MB5400 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1570,7 +1638,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Brother MFC-L2750DW series
+TargetPrinter=Canon MB5400 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1614,7 +1682,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Brother MFC-L2750DW series
+TargetPrinter=Canon MB5400 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1675,7 +1743,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Brother MFC-L2750DW series
+TargetPrinter=Canon MB5400 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files

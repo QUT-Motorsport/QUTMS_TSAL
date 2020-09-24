@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DJEXONBE
+DocumentUniqueId=ASABFLVN
 
 [Document8]
 DocumentPath=QUTMS_BuzzerLibrary.PcbLib
@@ -955,8 +955,98 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document55]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document56]
+DocumentPath=CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for QUTMS-TSAL-V00\Design Rule Check - TSAL-P01-V00-TSALControl.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for QUTMS-TSAL-V00\TSAL-P01-V00-TSALControl.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for QUTMS-TSAL-V00\TSAL-P01-V00-TSALControl.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for QUTMS-TSAL-V00\TSAL-P01-V00-TSALControl.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for QUTMS-TSAL-V00\TSAL-P01-V00-TSALControl.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for QUTMS-TSAL-V00\TSAL-P01-V00-TSALControl.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for QUTMS-TSAL-V00\TSAL-P01-V00-TSALControl.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for QUTMS-TSAL-V00\TSAL-P01-V00-TSALControl.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for QUTMS-TSAL-V00\TSAL-P01-V00-TSALControl.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for QUTMS-TSAL-V00\TSAL-P01-V00-TSALControl.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for QUTMS-TSAL-V00\TSAL-P01-V00-TSALControl.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for QUTMS-TSAL-V00\TSAL-P01-V00-TSALControl.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for QUTMS-TSAL-V00\TSAL-P01-V00-TSALControl.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for QUTMS-TSAL-V00\TSAL-P01-V00-TSALControl.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for QUTMS-TSAL-V00\TSAL-P01-V00-TSALControl.TXT
 DItemRevisionGUID=
 
 [Configuration1]

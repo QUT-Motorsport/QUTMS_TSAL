@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TSAL-P01-V00-TSALControl.PcbDoc   24/09/2020  6:18:17 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TSAL-P01-V00-TSALControl.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T3      40mil (1.016mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T4      118mil (3mm)                                              Round             2         PTH        0.00inch (0.00mm)
+T5      138mil (3.5mm)                                            Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              24
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=H:\Users\Documents\GitHub\QUTMS_TSAL\hardware\TSAL Control\.PDF
+OutputFilePath2=C:\Users\thera\Documents\GitHub\QUTMS_TSAL\hardware\TSAL Control\.PDF
 ReleaseManaged2=0
-OutputBasePath2=H:\Users\Documents\GitHub\QUTMS_TSAL\hardware\TSAL Control\
+OutputBasePath2=C:\Users\thera\Documents\GitHub\QUTMS_TSAL\hardware\TSAL Control\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=H:\Users\Documents\GitHub\QUTMS_TSAL\hardware\TSAL Control\.PDF
+RelativeOutputPath2=C:\Users\thera\Documents\GitHub\QUTMS_TSAL\hardware\TSAL Control\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1

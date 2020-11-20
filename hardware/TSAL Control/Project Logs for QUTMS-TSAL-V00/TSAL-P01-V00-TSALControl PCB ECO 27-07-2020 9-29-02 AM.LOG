@@ -1,4 +1,0 @@
-Removed Member From Class: ClassName=TSAL-S01-V00-Control Member=QUTMS TSAL CTRL
-Change Component Footprint: Designator=U1 Old Footprint=8-SOIC New Footprint=MCP2561 SOIC
-Change Component Description : Designator=C2 Old Description=10000pF ±5% 25V Ceramic Capacitor X7R 0402 (1005 Metric) New Description=10000pF ±5% 25V Ceramic Capacitor X7R 0402 (1005 Metric)
-

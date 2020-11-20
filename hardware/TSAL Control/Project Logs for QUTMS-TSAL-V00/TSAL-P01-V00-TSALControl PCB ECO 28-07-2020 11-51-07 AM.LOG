@@ -1,4 +1,0 @@
-Removed Member From Class: ClassName=TSAL-S01-V00-Control Member=M3
-Change Component Description : Designator=C2 Old Description=10000pF ±5% 25V Ceramic Capacitor X7R 0402 (1005 Metric) New Description=10000pF ±5% 25V Ceramic Capacitor X7R 0402 (1005 Metric)
-
-Added Member To Class: ClassName=TSAL-S01-V00-Control Member=Component U1 LM555CMX

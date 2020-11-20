@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\User\OneDrive - Queensland University of Technology\2020 QUTMS\QUTMS_BMS_Interface_V1\TSAL-P01-V00-TSALControl.PcbDoc
-Date     : 29/07/2020
-Time     : 1:23:40 AM
+PCB File : C:\Users\thera\Documents\GitHub\QUTMS_TSAL\hardware\TSAL Control\TSAL-P01-V00-TSALControl.PcbDoc
+Date     : 25/09/2020
+Time     : 11:33:50 AM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -15,7 +15,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=20mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=20mil) (Max=50mil) (Preferred=20mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)

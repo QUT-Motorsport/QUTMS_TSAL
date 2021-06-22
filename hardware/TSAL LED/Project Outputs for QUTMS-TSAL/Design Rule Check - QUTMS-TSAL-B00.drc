@@ -1,16 +1,76 @@
 Protel Design System Design Rule Check
-PCB File : H:\Users\Documents\GitHub\QUTMS_TSAL\hardware\TSAL LED\QUTMS-TSAL-B00.PcbDoc
-Date     : 28/08/2020
-Time     : 5:08:04 PM
+PCB File : C:\Users\a\OneDrive\Documents\TSAL\QUTMS_TSAL\hardware\TSAL LED\QUTMS-TSAL-B00.PcbDoc
+Date     : 21/06/2021
+Time     : 1:40:25 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
-Rule Violations :0
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad DS1-HS(2325mil,2185mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad DS1-HS(2325mil,2265mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad DS2-HS(2325mil,2735mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad DS2-HS(2325mil,2815mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad DS3-HS(2875mil,2735mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad DS3-HS(2875mil,2815mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad DS4-HS(2875mil,2185mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad DS4-HS(2875mil,2265mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad DS5-HS(2325mil,1635mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad DS5-HS(2325mil,1715mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad DS6-HS(2600mil,2860mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad DS6-HS(2600mil,2940mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad DS7-HS(2875mil,1635mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad DS7-HS(2875mil,1715mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad P1-1(2540mil,1425mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad P2-1(2660mil,1425mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (91 hole(s)) Bottom Layer And Via (2475mil,1750mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (91 hole(s)) Bottom Layer And Via (2475mil,1800mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (91 hole(s)) Bottom Layer And Via (2475mil,2300mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (91 hole(s)) Bottom Layer And Via (2475mil,2350mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (91 hole(s)) Bottom Layer And Via (2490mil,2120mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (91 hole(s)) Bottom Layer And Via (2490mil,2670mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (91 hole(s)) Bottom Layer And Via (2535mil,2070mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (91 hole(s)) Bottom Layer And Via (2535mil,2620mil) from Top Layer to Bottom Layer 
+Rule Violations :24
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-Rule Violations :0
+   Violation between Short-Circuit Constraint: Between Pad DS1-HS(2325mil,2185mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2332.39mil][Y = 2185mil]
+   Violation between Short-Circuit Constraint: Between Pad DS1-HS(2325mil,2265mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2332.39mil][Y = 2265mil]
+   Violation between Short-Circuit Constraint: Between Pad DS2-HS(2325mil,2735mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2325mil][Y = 2735mil]
+   Violation between Short-Circuit Constraint: Between Pad DS2-HS(2325mil,2815mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2325mil][Y = 2815mil]
+   Violation between Short-Circuit Constraint: Between Pad DS3-HS(2875mil,2735mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2875mil][Y = 2735mil]
+   Violation between Short-Circuit Constraint: Between Pad DS3-HS(2875mil,2815mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2875mil][Y = 2815mil]
+   Violation between Short-Circuit Constraint: Between Pad DS4-HS(2875mil,2185mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2875mil][Y = 2185mil]
+   Violation between Short-Circuit Constraint: Between Pad DS4-HS(2875mil,2265mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2875mil][Y = 2265mil]
+   Violation between Short-Circuit Constraint: Between Pad DS5-HS(2325mil,1635mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2325mil][Y = 1635mil]
+   Violation between Short-Circuit Constraint: Between Pad DS5-HS(2325mil,1715mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2325mil][Y = 1715mil]
+   Violation between Short-Circuit Constraint: Between Pad DS6-HS(2600mil,2860mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2600mil][Y = 2860mil]
+   Violation between Short-Circuit Constraint: Between Pad DS6-HS(2600mil,2940mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2600mil][Y = 2940mil]
+   Violation between Short-Circuit Constraint: Between Pad DS7-HS(2875mil,1635mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2875mil][Y = 1635mil]
+   Violation between Short-Circuit Constraint: Between Pad DS7-HS(2875mil,1715mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2875mil][Y = 1715mil]
+   Violation between Short-Circuit Constraint: Between Pad P1-1(2540mil,1425mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2540mil][Y = 1425mil]
+   Violation between Short-Circuit Constraint: Between Pad P2-1(2660mil,1425mil) on Multi-Layer And Polygon Region (91 hole(s)) Bottom Layer Location : [X = 2660mil][Y = 1425mil]
+   Violation between Short-Circuit Constraint: Between Polygon Region (91 hole(s)) Bottom Layer And Via (2475mil,1750mil) from Top Layer to Bottom Layer Location : [X = 2475mil][Y = 1744.588mil]
+   Violation between Short-Circuit Constraint: Between Polygon Region (91 hole(s)) Bottom Layer And Via (2475mil,1800mil) from Top Layer to Bottom Layer Location : [X = 2475mil][Y = 1805.412mil]
+   Violation between Short-Circuit Constraint: Between Polygon Region (91 hole(s)) Bottom Layer And Via (2475mil,2300mil) from Top Layer to Bottom Layer Location : [X = 2475mil][Y = 2294.588mil]
+   Violation between Short-Circuit Constraint: Between Polygon Region (91 hole(s)) Bottom Layer And Via (2475mil,2350mil) from Top Layer to Bottom Layer Location : [X = 2475mil][Y = 2355.412mil]
+   Violation between Short-Circuit Constraint: Between Polygon Region (91 hole(s)) Bottom Layer And Via (2490mil,2120mil) from Top Layer to Bottom Layer Location : [X = 2490mil][Y = 2120mil]
+   Violation between Short-Circuit Constraint: Between Polygon Region (91 hole(s)) Bottom Layer And Via (2490mil,2670mil) from Top Layer to Bottom Layer Location : [X = 2490mil][Y = 2670mil]
+   Violation between Short-Circuit Constraint: Between Polygon Region (91 hole(s)) Bottom Layer And Via (2535mil,2070mil) from Top Layer to Bottom Layer Location : [X = 2535mil][Y = 2070mil]
+   Violation between Short-Circuit Constraint: Between Polygon Region (91 hole(s)) Bottom Layer And Via (2535mil,2620mil) from Top Layer to Bottom Layer Location : [X = 2535mil][Y = 2620mil]
+Rule Violations :24
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Net GND Between Pad DS1-HS(2325mil,2265mil) on Multi-Layer And Via (2475mil,2300mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad DS2-HS(2325mil,2735mil) on Multi-Layer And Via (2490mil,2670mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad DS6-HS(2600mil,2860mil) on Multi-Layer And Pad DS3-HS(2875mil,2815mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (2475mil,2300mil) from Top Layer to Bottom Layer And Pad DS4-HS(2875mil,2265mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad DS5-HS(2325mil,1715mil) on Multi-Layer And Via (2475mil,1750mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (2490mil,2670mil) from Top Layer to Bottom Layer And Pad DS6-HS(2600mil,2860mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (2655mil,1510mil)(2657.5mil,1507.5mil) on Top Layer And Pad DS7-HS(2875mil,1635mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (2542.5mil,1507.5mil)(2545mil,1510mil) on Top Layer And Track (2655mil,1510mil)(2657.5mil,1507.5mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (2475mil,1750mil) from Top Layer to Bottom Layer And Track (2542.5mil,1507.5mil)(2545mil,1510mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (2475mil,1800mil) from Top Layer to Bottom Layer And Via (2535mil,2070mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (2475mil,2300mil) from Top Layer to Bottom Layer And Via (2490mil,2120mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (2475mil,2350mil) from Top Layer to Bottom Layer And Via (2535mil,2620mil) from Top Layer to Bottom Layer 
+Rule Violations :12
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -41,12 +101,65 @@ Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-Rule Violations :0
+   Violation between Net Antennae: Track (2542.5mil,1427.5mil)(2542.5mil,1507.5mil) on Top Layer 
+   Violation between Net Antennae: Track (2657.5mil,1427.5mil)(2657.5mil,1507.5mil) on Top Layer 
+   Violation between Net Antennae: Via (2475mil,1750mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (2475mil,2300mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (2535mil,2070mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (2535mil,2620mil) from Top Layer to Bottom Layer 
+Rule Violations :6
+
+Processing Rule : Room QUTMS-TSAL-S00 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('QUTMS-TSAL-S00'))
+   Violation between Room Definition: Between Room QUTMS-TSAL-S00 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('QUTMS-TSAL-S00')) And SIP Component P1-Header 4 (2540mil,1425mil) on Top Layer 
+   Violation between Room Definition: Between Room QUTMS-TSAL-S00 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('QUTMS-TSAL-S00')) And SIP Component P2-Header 4 (2660mil,1425mil) on Top Layer 
+   Violation between Room Definition: Between Room QUTMS-TSAL-S00 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('QUTMS-TSAL-S00')) And SMT Small Component LOGO1-LBL Hot Surface S (3095mil,2285mil) on Top Overlay 
+   Violation between Room Definition: Between Room QUTMS-TSAL-S00 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('QUTMS-TSAL-S00')) And SMT Small Component LOGO3-LBL Hot Surface S (3475mil,1625mil) on Top Layer 
+   Violation between Room Definition: Between Room QUTMS-TSAL-S00 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('QUTMS-TSAL-S00')) And SMT Small Component LYID1-2 Layer Identification PCB Marker (2270mil,2995mil) on Top Layer 
+Rule Violations :5
+
+Processing Rule : Room RED LED ARRAY (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('RED LED ARRAY'))
+   Violation between Room Definition: Between Room RED LED ARRAY (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('RED LED ARRAY')) And SIP Component DS1-XPEBRD-L1-0000-00601 (2325mil,2225mil) on Top Layer 
+   Violation between Room Definition: Between Room RED LED ARRAY (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('RED LED ARRAY')) And SIP Component DS2-XPEBRD-L1-0000-00601 (2325mil,2775mil) on Top Layer 
+   Violation between Room Definition: Between Room RED LED ARRAY (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('RED LED ARRAY')) And SIP Component DS3-XPEBRD-L1-0000-00601 (2875mil,2775mil) on Top Layer 
+   Violation between Room Definition: Between Room RED LED ARRAY (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('RED LED ARRAY')) And SIP Component DS4-XPEBRD-L1-0000-00601 (2875mil,2225mil) on Top Layer 
+Rule Violations :4
+
+Processing Rule : Room Voltage ReducerA (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Voltage ReducerA'))
+   Violation between Room Definition: Between Room Voltage ReducerA (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Voltage ReducerA')) And SMT Small Component R2A-10k (2470mil,1535mil) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Room RED LED DRIVER (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('RED LED DRIVER'))
+   Violation between Room Definition: Between Component U1B-AL8860WT-7 (2485mil,2510mil) on Top Layer And Room RED LED DRIVER (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('RED LED DRIVER')) 
+   Violation between Room Definition: Between Room RED LED DRIVER (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('RED LED DRIVER')) And SMT Small Component C1B-10uF X7R (2495mil,2400mil) on Top Layer 
+   Violation between Room Definition: Between Room RED LED DRIVER (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('RED LED DRIVER')) And SMT Small Component D1B-PMEG2005EJ (2570mil,2335mil) on Top Layer 
+   Violation between Room Definition: Between Room RED LED DRIVER (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('RED LED DRIVER')) And SMT Small Component L1B-SRN6045-101M (2715mil,2500mil) on Top Layer 
+   Violation between Room Definition: Between Room RED LED DRIVER (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('RED LED DRIVER')) And SMT Small Component R1B-0R27 1% (2390mil,2490mil) on Top Layer 
+   Violation between Room Definition: Between Room RED LED DRIVER (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('RED LED DRIVER')) And SMT Small Component R3B-10k (2455mil,2620mil) on Top Layer 
+Rule Violations :6
+
+Processing Rule : Room GREEN LED DRIVER (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('GREEN LED DRIVER'))
+   Violation between Room Definition: Between Component U1A-AL8860WT-7 (2485mil,1960mil) on Top Layer And Room GREEN LED DRIVER (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('GREEN LED DRIVER')) 
+   Violation between Room Definition: Between Room GREEN LED DRIVER (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('GREEN LED DRIVER')) And SMT Small Component C1A-10uF X7R (2495mil,1850mil) on Top Layer 
+   Violation between Room Definition: Between Room GREEN LED DRIVER (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('GREEN LED DRIVER')) And SMT Small Component D1A-PMEG2005EJ (2570mil,1785mil) on Top Layer 
+   Violation between Room Definition: Between Room GREEN LED DRIVER (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('GREEN LED DRIVER')) And SMT Small Component L1A-SRN6045-101M (2715mil,1950mil) on Top Layer 
+   Violation between Room Definition: Between Room GREEN LED DRIVER (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('GREEN LED DRIVER')) And SMT Small Component R1A-0R27 1% (2390mil,1940mil) on Top Layer 
+   Violation between Room Definition: Between Room GREEN LED DRIVER (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('GREEN LED DRIVER')) And SMT Small Component R3A-10k (2455mil,2070mil) on Top Layer 
+Rule Violations :6
+
+Processing Rule : Room Voltage ReducerB (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Voltage ReducerB'))
+   Violation between Room Definition: Between Room Voltage ReducerB (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Voltage ReducerB')) And SMT Small Component R2B-10k (2730mil,1535mil) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Room GREEN LED ARRAY (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('GREEN LED ARRAY'))
+   Violation between Room Definition: Between Room GREEN LED ARRAY (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('GREEN LED ARRAY')) And SIP Component DS5-XPEBGR-L1-0000-00A01 (2325mil,1675mil) on Top Layer 
+   Violation between Room Definition: Between Room GREEN LED ARRAY (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('GREEN LED ARRAY')) And SIP Component DS6-XPEBGR-L1-0000-00A01 (2600mil,2900mil) on Top Layer 
+   Violation between Room Definition: Between Room GREEN LED ARRAY (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('GREEN LED ARRAY')) And SIP Component DS7-XPEBGR-L1-0000-00A01 (2875mil,1675mil) on Top Layer 
+Rule Violations :3
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 4
+Violations Detected : 96
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02

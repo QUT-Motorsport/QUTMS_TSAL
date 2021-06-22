@@ -1,0 +1,15 @@
+Added Component: Designator=D2A(CM0Z&L&_SERIES)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://au.element14.com/on-semiconductor/mmsz5226bt1g/diode-zener-3-3v-0-5w/dp/1431269"; VariantName = "[No Variations]"
+Added Component: Designator=D2B(CM0Z&L&_SERIES)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://au.element14.com/on-semiconductor/mmsz5226bt1g/diode-zener-3-3v-0-5w/dp/1431269"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Voltage ReducerA Member=Component D2A (D2) CMD21L8 TRPBFREE
+Added Member To Class: ClassName=Voltage ReducerB Member=Component D2B (D2) CMD21L8 TRPBFREE
+Added Room: Name=GREEN LED ARRAY
+Added Room: Name=GREEN LED DRIVER
+Added Room: Name=QUTMS-TSAL-S00
+Added Room: Name=RED LED ARRAY
+Added Room: Name=RED LED DRIVER
+Added Room: Name=Voltage ReducerA
+Added Room: Name=Voltage ReducerB

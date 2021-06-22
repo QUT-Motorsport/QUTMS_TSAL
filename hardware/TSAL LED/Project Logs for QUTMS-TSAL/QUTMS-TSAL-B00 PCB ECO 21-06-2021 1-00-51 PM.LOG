@@ -1,0 +1,9 @@
+Change Component Comment : Designator=D2A Old Comment=MMSZ5226BT1G New Comment=CMD21L8 TRPBFREE
+Change Component Comment : Designator=D2B Old Comment=MMSZ5226BT1G New Comment=CMD21L8 TRPBFREE
+Added Room: Name=GREEN LED ARRAY
+Added Room: Name=GREEN LED DRIVER
+Added Room: Name=QUTMS-TSAL-S00
+Added Room: Name=RED LED ARRAY
+Added Room: Name=RED LED DRIVER
+Added Room: Name=Voltage ReducerA
+Added Room: Name=Voltage ReducerB

@@ -1,0 +1,116 @@
+Added Component: Designator=D2A(CM0Z&L&_SERIES)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://au.element14.com/on-semiconductor/mmsz5226bt1g/diode-zener-3-3v-0-5w/dp/1431269"; VariantName = "[No Variations]"
+Added Component: Designator=D2B(CM0Z&L&_SERIES)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://au.element14.com/on-semiconductor/mmsz5226bt1g/diode-zener-3-3v-0-5w/dp/1431269"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1A-1
+Added Pin To Net: NetName=GND Pin=C1B-1
+Added Pin To Net: NetName=GND Pin=DS1-HS
+Added Pin To Net: NetName=GND Pin=DS1-HS
+Added Pin To Net: NetName=GND Pin=DS2-HS
+Added Pin To Net: NetName=GND Pin=DS2-HS
+Added Pin To Net: NetName=GND Pin=DS3-HS
+Added Pin To Net: NetName=GND Pin=DS3-HS
+Added Pin To Net: NetName=GND Pin=DS4-HS
+Added Pin To Net: NetName=GND Pin=DS4-HS
+Added Pin To Net: NetName=GND Pin=DS5-HS
+Added Pin To Net: NetName=GND Pin=DS5-HS
+Added Pin To Net: NetName=GND Pin=DS6-HS
+Added Pin To Net: NetName=GND Pin=DS6-HS
+Added Pin To Net: NetName=GND Pin=DS7-HS
+Added Pin To Net: NetName=GND Pin=DS7-HS
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=R3A-1
+Added Pin To Net: NetName=GND Pin=R3B-1
+Added Pin To Net: NetName=GND Pin=U1A-2
+Added Pin To Net: NetName=GND Pin=U1B-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD2A_K Pin=R2A-1
+Added Pin To Net: NetName=NetD2A_K Pin=R3A-2
+Added Pin To Net: NetName=NetD2A_K Pin=U1A-3
+Added Net: Name=NetD2A_K
+Added Pin To Net: NetName=NetD2B_K Pin=R2B-1
+Added Pin To Net: NetName=NetD2B_K Pin=R3B-2
+Added Pin To Net: NetName=NetD2B_K Pin=U1B-3
+Added Net: Name=NetD2B_K
+Added Pin To Net: NetName=NetDS1_K Pin=DS1-K
+Added Pin To Net: NetName=NetDS1_K Pin=DS1-K
+Added Pin To Net: NetName=NetDS1_K Pin=DS2-A
+Added Pin To Net: NetName=NetDS1_K Pin=DS2-A
+Added Net: Name=NetDS1_K
+Added Pin To Net: NetName=NetDS2_K Pin=DS2-K
+Added Pin To Net: NetName=NetDS2_K Pin=DS2-K
+Added Pin To Net: NetName=NetDS2_K Pin=DS3-A
+Added Pin To Net: NetName=NetDS2_K Pin=DS3-A
+Added Net: Name=NetDS2_K
+Added Pin To Net: NetName=NetDS3_K Pin=DS3-K
+Added Pin To Net: NetName=NetDS3_K Pin=DS3-K
+Added Pin To Net: NetName=NetDS3_K Pin=DS4-A
+Added Pin To Net: NetName=NetDS3_K Pin=DS4-A
+Added Net: Name=NetDS3_K
+Added Pin To Net: NetName=NetDS5_K Pin=DS5-K
+Added Pin To Net: NetName=NetDS5_K Pin=DS5-K
+Added Pin To Net: NetName=NetDS5_K Pin=DS6-A
+Added Pin To Net: NetName=NetDS5_K Pin=DS6-A
+Added Net: Name=NetDS5_K
+Added Pin To Net: NetName=NetDS6_K Pin=DS6-K
+Added Pin To Net: NetName=NetDS6_K Pin=DS6-K
+Added Pin To Net: NetName=NetDS6_K Pin=DS7-A
+Added Pin To Net: NetName=NetDS6_K Pin=DS7-A
+Added Net: Name=NetDS6_K
+Added Pin To Net: NetName=SGRN Pin=P1-3
+Added Pin To Net: NetName=SGRN Pin=P2-3
+Added Pin To Net: NetName=SGRN Pin=R2A-2
+Added Net: Name=SGRN
+Added Pin To Net: NetName=SRED Pin=P1-4
+Added Pin To Net: NetName=SRED Pin=P2-4
+Added Pin To Net: NetName=SRED Pin=R2B-2
+Added Net: Name=SRED
+Added Pin To Net: NetName=SWA Pin=D1A-A
+Added Pin To Net: NetName=SWA Pin=L1A-2
+Added Pin To Net: NetName=SWA Pin=U1A-1
+Added Net: Name=SWA
+Added Pin To Net: NetName=SWB Pin=D1B-A
+Added Pin To Net: NetName=SWB Pin=L1B-2
+Added Pin To Net: NetName=SWB Pin=U1B-1
+Added Net: Name=SWB
+Added Pin To Net: NetName=VCC Pin=C1A-2
+Added Pin To Net: NetName=VCC Pin=C1B-2
+Added Pin To Net: NetName=VCC Pin=D1A-K
+Added Pin To Net: NetName=VCC Pin=D1B-K
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=P2-2
+Added Pin To Net: NetName=VCC Pin=R1A-1
+Added Pin To Net: NetName=VCC Pin=R1B-1
+Added Pin To Net: NetName=VCC Pin=U1A-5
+Added Pin To Net: NetName=VCC Pin=U1B-5
+Added Net: Name=VCC
+Added Pin To Net: NetName=VLED-GREEN Pin=DS5-A
+Added Pin To Net: NetName=VLED-GREEN Pin=DS5-A
+Added Pin To Net: NetName=VLED-GREEN Pin=R1A-2
+Added Pin To Net: NetName=VLED-GREEN Pin=U1A-4
+Added Net: Name=VLED-GREEN
+Added Pin To Net: NetName=VLED-RED Pin=DS1-A
+Added Pin To Net: NetName=VLED-RED Pin=DS1-A
+Added Pin To Net: NetName=VLED-RED Pin=R1B-2
+Added Pin To Net: NetName=VLED-RED Pin=U1B-4
+Added Net: Name=VLED-RED
+Added Pin To Net: NetName=VOUT-GREEN Pin=DS7-K
+Added Pin To Net: NetName=VOUT-GREEN Pin=DS7-K
+Added Pin To Net: NetName=VOUT-GREEN Pin=L1A-1
+Added Net: Name=VOUT-GREEN
+Added Pin To Net: NetName=VOUT-RED Pin=DS4-K
+Added Pin To Net: NetName=VOUT-RED Pin=DS4-K
+Added Pin To Net: NetName=VOUT-RED Pin=L1B-1
+Added Net: Name=VOUT-RED
+Added Member To Class: ClassName=Voltage ReducerA Member=Component D2A (D2) CMD21L8 TRPBFREE
+Added Member To Class: ClassName=Voltage ReducerB Member=Component D2B (D2) CMD21L8 TRPBFREE
+Added Room: Name=GREEN LED ARRAY
+Added Room: Name=GREEN LED DRIVER
+Added Room: Name=QUTMS-TSAL-S00
+Added Room: Name=RED LED ARRAY
+Added Room: Name=RED LED DRIVER
+Added Room: Name=Voltage ReducerA
+Added Room: Name=Voltage ReducerB

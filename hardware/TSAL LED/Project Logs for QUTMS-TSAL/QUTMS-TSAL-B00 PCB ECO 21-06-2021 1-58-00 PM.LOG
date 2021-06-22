@@ -1,0 +1,10 @@
+Change Component Comment : Designator=Designator2 Old Comment=Comment New Comment=CMD21L8 TRPBFREE
+Change Component Comment : Designator=Designator3 Old Comment=Comment New Comment=CMD21L8 TRPBFREE
+Change Component Designator: OldDesignator=Designator2 NewDesignator=D2A
+Change Component Designator: OldDesignator=Designator3 NewDesignator=D2B
+Added Pin To Net: NetName=GND Pin=D2A-A
+Added Pin To Net: NetName=NetR2A_1 Pin=D2A-k
+Added Pin To Net: NetName=GND Pin=D2B-A
+Added Pin To Net: NetName=NetR2B_1 Pin=D2B-k
+Change Net Name : Old Net Name=NetR2A_1 New Net Name=NetD2A_K
+Change Net Name : Old Net Name=NetR2B_1 New Net Name=NetD2B_K

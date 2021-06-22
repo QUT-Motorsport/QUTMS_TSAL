@@ -1,0 +1,4 @@
+Added Component: Designator=D2A(SODFL160X80-2N)
+Added Pin To Net: NetName=GND Pin=D2A-A
+Added Pin To Net: NetName=NetD2A_K Pin=D2A-k
+Added Member To Class: ClassName=Voltage ReducerA Member=Component D2A (D2) CMD21L8 TRPBFREE

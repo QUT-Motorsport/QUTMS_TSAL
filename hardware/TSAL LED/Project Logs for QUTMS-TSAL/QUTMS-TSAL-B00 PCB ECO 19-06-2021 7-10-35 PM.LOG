@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=D2A-A
+Removed Pin From Net: NetName=NetD2A_K Pin=D2A-K
+Removed Pin From Net: NetName=GND Pin=D2B-A
+Removed Pin From Net: NetName=NetD2B_K Pin=D2B-K
+Added Component: Designator=D2A(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://au.element14.com/on-semiconductor/mmsz5226bt1g/diode-zener-3-3v-0-5w/dp/1431269"; VariantName = "[No Variations]"
+Added Component: Designator=D2B(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://au.element14.com/on-semiconductor/mmsz5226bt1g/diode-zener-3-3v-0-5w/dp/1431269"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D2A-A
+Added Pin To Net: NetName=NetD2A_K Pin=D2A-K
+Added Pin To Net: NetName=GND Pin=D2B-A
+Added Pin To Net: NetName=NetD2B_K Pin=D2B-K
+Added Room: Name=GREEN LED ARRAY
+Added Room: Name=GREEN LED DRIVER
+Added Room: Name=QUTMS-TSAL-S00
+Added Room: Name=RED LED ARRAY
+Added Room: Name=RED LED DRIVER
+Added Room: Name=Voltage ReducerA
+Added Room: Name=Voltage ReducerB

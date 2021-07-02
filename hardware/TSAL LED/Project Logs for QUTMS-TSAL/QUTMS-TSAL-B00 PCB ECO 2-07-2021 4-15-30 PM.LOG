@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=R1A Old Footprint=Res_ThinFilm_0603 New Footprint=WSLT2512
+Change Component Footprint: Designator=R1B Old Footprint=Res_ThinFilm_0603 New Footprint=WSLT2512
+Change Component Comment : Designator=*A Old Comment=ZXLD136ET5TA New Comment=ZXLD1360
+Change Component Comment : Designator=*B Old Comment=ZXLD136ET5TA New Comment=ZXLD1360
+Change Component Description : Designator=DS5 Old Description=LED, Cree XLamp XP-E2 Series, Green, 535 nm, 135 °, 87.4 lm, 1 A New Description=LED, Cree XLamp XP-E2 Series, Green, 535 nm, 135 °, 87.4 lm, 1 A 
+Change Component Description : Designator=DS6 Old Description=LED, Cree XLamp XP-E2 Series, Green, 535 nm, 135 °, 87.4 lm, 1 A New Description=LED, Cree XLamp XP-E2 Series, Green, 535 nm, 135 °, 87.4 lm, 1 A 
+Change Component Description : Designator=DS7 Old Description=LED, Cree XLamp XP-E2 Series, Green, 535 nm, 135 °, 87.4 lm, 1 A New Description=LED, Cree XLamp XP-E2 Series, Green, 535 nm, 135 °, 87.4 lm, 1 A 
+Change Component Description : Designator=DS1 Old Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A New Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A 
+Change Component Description : Designator=DS2 Old Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A New Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A 
+Change Component Description : Designator=DS3 Old Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A New Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A 
+Change Component Description : Designator=DS4 Old Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A New Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A 

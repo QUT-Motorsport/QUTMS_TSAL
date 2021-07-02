@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=SWA Pin=U1A-1
+Removed Pin From Net: NetName=GND Pin=U1A-2
+Removed Pin From Net: NetName=NetD2A_K Pin=U1A-3
+Removed Pin From Net: NetName=VLED-GREEN Pin=U1A-4
+Removed Pin From Net: NetName=VCC Pin=U1A-5
+Removed Pin From Net: NetName=SWB Pin=U1B-1
+Removed Pin From Net: NetName=GND Pin=U1B-2
+Removed Pin From Net: NetName=NetD2B_K Pin=U1B-3
+Removed Pin From Net: NetName=VLED-RED Pin=U1B-4
+Removed Pin From Net: NetName=VCC Pin=U1B-5
+Removed Member From Class: ClassName=GREEN LED DRIVER Member=U1A
+Removed Member From Class: ClassName=RED LED DRIVER Member=U1B
+Added Component: Designator=*A(SOT95P280X100-5N)
+Added Component: Designator=*B(SOT95P280X100-5N)
+Added Pin To Net: NetName=SWA Pin=*A-1
+Added Pin To Net: NetName=GND Pin=*A-2
+Added Pin To Net: NetName=NetD2A_K Pin=*A-3
+Added Pin To Net: NetName=VLED-GREEN Pin=*A-4
+Added Pin To Net: NetName=VCC Pin=*A-5
+Added Pin To Net: NetName=SWB Pin=*B-1
+Added Pin To Net: NetName=GND Pin=*B-2
+Added Pin To Net: NetName=NetD2B_K Pin=*B-3
+Added Pin To Net: NetName=VLED-RED Pin=*B-4
+Added Pin To Net: NetName=VCC Pin=*B-5
+Change Net Name : Old Net Name=NetD2A_K New Net Name=Net*A_3
+Change Net Name : Old Net Name=NetD2B_K New Net Name=Net*B_3
+Added Member To Class: ClassName=GREEN LED DRIVER Member=Component *A (*) ZXLD136ET5TA
+Added Member To Class: ClassName=RED LED DRIVER Member=Component *B (*) ZXLD136ET5TA

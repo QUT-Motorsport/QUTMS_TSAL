@@ -1,0 +1,87 @@
+Added Component: Designator=DS1(Cree XLamp XP-E2 (red and green LED))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://au.element14.com/cree/xpebrd-l1-0000-00601/led-smd-xlamp-xpe-e-red-62lm/dp/2335107"; VariantName = "[No Variations]"
+Added Component: Designator=DS2(Cree XLamp XP-E2 (red and green LED))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://au.element14.com/cree/xpebrd-l1-0000-00601/led-smd-xlamp-xpe-e-red-62lm/dp/2335107"; VariantName = "[No Variations]"
+Added Component: Designator=DS3(Cree XLamp XP-E2 (red and green LED))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://au.element14.com/cree/xpebrd-l1-0000-00601/led-smd-xlamp-xpe-e-red-62lm/dp/2335107"; VariantName = "[No Variations]"
+Added Component: Designator=DS4(Cree XLamp XP-E2 (red and green LED))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://au.element14.com/cree/xpebrd-l1-0000-00601/led-smd-xlamp-xpe-e-red-62lm/dp/2335107"; VariantName = "[No Variations]"
+Added Component: Designator=DS5(Cree XLamp XP-E2 (red and green LED))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://au.element14.com/cree/xpebrd-l1-0000-00601/led-smd-xlamp-xpe-e-red-62lm/dp/2335107"; VariantName = "[No Variations]"
+Added Component: Designator=DS6(Cree XLamp XP-E2 (red and green LED))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://au.element14.com/cree/xpebrd-l1-0000-00601/led-smd-xlamp-xpe-e-red-62lm/dp/2335107"; VariantName = "[No Variations]"
+Added Component: Designator=DS7(Cree XLamp XP-E2 (red and green LED))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://au.element14.com/cree/xpebrd-l1-0000-00601/led-smd-xlamp-xpe-e-red-62lm/dp/2335107"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DS1-HS
+Added Pin To Net: NetName=GND Pin=DS1-HS
+Added Pin To Net: NetName=GND Pin=DS2-HS
+Added Pin To Net: NetName=GND Pin=DS2-HS
+Added Pin To Net: NetName=GND Pin=DS3-HS
+Added Pin To Net: NetName=GND Pin=DS3-HS
+Added Pin To Net: NetName=GND Pin=DS4-HS
+Added Pin To Net: NetName=GND Pin=DS4-HS
+Added Pin To Net: NetName=GND Pin=DS5-HS
+Added Pin To Net: NetName=GND Pin=DS5-HS
+Added Pin To Net: NetName=GND Pin=DS6-HS
+Added Pin To Net: NetName=GND Pin=DS6-HS
+Added Pin To Net: NetName=GND Pin=DS7-HS
+Added Pin To Net: NetName=GND Pin=DS7-HS
+Added Net: Name=GND
+Added Pin To Net: NetName=NetDS1_K Pin=DS1-K
+Added Pin To Net: NetName=NetDS1_K Pin=DS1-K
+Added Pin To Net: NetName=NetDS1_K Pin=DS2-A
+Added Pin To Net: NetName=NetDS1_K Pin=DS2-A
+Added Net: Name=NetDS1_K
+Added Pin To Net: NetName=NetDS2_K Pin=DS2-K
+Added Pin To Net: NetName=NetDS2_K Pin=DS2-K
+Added Pin To Net: NetName=NetDS2_K Pin=DS3-A
+Added Pin To Net: NetName=NetDS2_K Pin=DS3-A
+Added Net: Name=NetDS2_K
+Added Pin To Net: NetName=NetDS3_K Pin=DS3-K
+Added Pin To Net: NetName=NetDS3_K Pin=DS3-K
+Added Pin To Net: NetName=NetDS3_K Pin=DS4-A
+Added Pin To Net: NetName=NetDS3_K Pin=DS4-A
+Added Net: Name=NetDS3_K
+Added Pin To Net: NetName=NetDS5_K Pin=DS5-K
+Added Pin To Net: NetName=NetDS5_K Pin=DS5-K
+Added Pin To Net: NetName=NetDS5_K Pin=DS6-A
+Added Pin To Net: NetName=NetDS5_K Pin=DS6-A
+Added Net: Name=NetDS5_K
+Added Pin To Net: NetName=NetDS6_K Pin=DS6-K
+Added Pin To Net: NetName=NetDS6_K Pin=DS6-K
+Added Pin To Net: NetName=NetDS6_K Pin=DS7-A
+Added Pin To Net: NetName=NetDS6_K Pin=DS7-A
+Added Net: Name=NetDS6_K
+Added Pin To Net: NetName=VLED GRN Pin=DS5-A
+Added Pin To Net: NetName=VLED GRN Pin=DS5-A
+Added Pin To Net: NetName=VLED GRN Pin=P1-3
+Added Net: Name=VLED GRN
+Added Pin To Net: NetName=VLED RED Pin=DS1-A
+Added Pin To Net: NetName=VLED RED Pin=DS1-A
+Added Pin To Net: NetName=VLED RED Pin=P1-1
+Added Net: Name=VLED RED
+Added Pin To Net: NetName=VOUT GRN Pin=DS7-K
+Added Pin To Net: NetName=VOUT GRN Pin=DS7-K
+Added Pin To Net: NetName=VOUT GRN Pin=P1-4
+Added Net: Name=VOUT GRN
+Added Pin To Net: NetName=VOUT RED Pin=DS4-K
+Added Pin To Net: NetName=VOUT RED Pin=DS4-K
+Added Pin To Net: NetName=VOUT RED Pin=P1-2
+Added Net: Name=VOUT RED
+Added Class: Name=GREEN LEDs
+Added Class: Name=QUTMS-TSAL-LEDs
+Added Class: Name=RED LEDs
+Added Room: Name=GREEN LEDs
+Added Room: Name=QUTMS-TSAL-LEDs
+Added Room: Name=RED LEDs

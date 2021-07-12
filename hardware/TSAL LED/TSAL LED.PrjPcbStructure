@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=QUTMS-TSAL-LEDs.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=QUTMS-TSAL-LEDs.SchDoc|Designator=GREEN LEDs|SchDesignator=GREEN LEDs|FileName=LED-drive-Green.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=LED-drive-Green.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=QUTMS-TSAL-LEDs.SchDoc|Designator=RED LEDs|SchDesignator=RED LEDs|FileName=LED-drive-Red.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=LED-drive-Red.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

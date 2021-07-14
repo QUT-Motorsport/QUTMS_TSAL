@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VLED RED Pin=P1-1
+Removed Pin From Net: NetName=VOUT RED Pin=P1-2
+Added Pin To Net: NetName=VOUT RED Pin=P1-1
+Added Pin To Net: NetName=VLED RED Pin=P1-2

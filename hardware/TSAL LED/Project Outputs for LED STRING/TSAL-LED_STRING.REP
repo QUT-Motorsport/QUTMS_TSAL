@@ -2,35 +2,24 @@
 FileName = TSAL-LED_STRING.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : TSAL-LED_STRING.GBL
+Generating : Mechanical 1
+      File : TSAL-LED_STRING.GM1
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D24
-    D25
-    D26
+    D27
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : TSAL-LED_STRING.GBS
+Generating : Keep-Out Layer
+      File : TSAL-LED_STRING.GKO
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D20
-    D21
-    D22
 *************************************************************
 
 *************************************************************
@@ -58,61 +47,20 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : TSAL-LED_STRING.GTP
+Generating : Bottom Solder
+      File : TSAL-LED_STRING.GBS
 
-    Adding Layer      : Top Paste
+    Adding Layer      : Bottom Solder
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : TSAL-LED_STRING.GPT
-
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D12
-    D13
-    D14
-    D15
-    D24
-    D25
-    D26
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : TSAL-LED_STRING.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : TSAL-LED_STRING.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D27
+    D20
+    D21
+    D22
 *************************************************************
 
 *************************************************************
@@ -137,18 +85,21 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : TSAL-LED_STRING.GPB
+Generating : Top Paste
+      File : TSAL-LED_STRING.GTP
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D24
-    D25
-    D26
+    D12
+    D13
+    D14
+    D15
 *************************************************************
 
 *************************************************************
@@ -161,6 +112,25 @@ Generating : Top Overlay
 Used DCodes :
     D10
     D11
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : TSAL-LED_STRING.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D24
+    D25
+    D26
 *************************************************************
 
 *************************************************************
@@ -179,6 +149,36 @@ Used DCodes :
     D14
     D15
     D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : TSAL-LED_STRING.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : TSAL-LED_STRING.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D24
     D25
     D26

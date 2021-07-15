@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=VLED GRN Pin=DS5-A
+Removed Pin From Net: NetName=VLED GRN Pin=DS5-A
+Removed Pin From Net: NetName=VOUT GRN Pin=DS7-K
+Removed Pin From Net: NetName=VOUT GRN Pin=DS7-K
+Added Pin To Net: NetName=VOUT GRN Pin=DS5-K
+Added Pin To Net: NetName=VOUT GRN Pin=DS5-K
+Added Pin To Net: NetName=VLED GRN Pin=DS7-A
+Added Pin To Net: NetName=VLED GRN Pin=DS7-A
+Added Pin To Net: NetName=NetDS5_A Pin=DS5-A
+Added Pin To Net: NetName=NetDS5_A Pin=DS5-A
+Added Pin To Net: NetName=NetDS5_A Pin=DS6-K
+Added Pin To Net: NetName=NetDS5_A Pin=DS6-K
+Added Net: Name=NetDS5_A
+Added Pin To Net: NetName=NetDS6_A Pin=DS6-A
+Added Pin To Net: NetName=NetDS6_A Pin=DS6-A
+Added Pin To Net: NetName=NetDS6_A Pin=DS7-K
+Added Pin To Net: NetName=NetDS6_A Pin=DS7-K
+Added Net: Name=NetDS6_A
+Added Member To Class: ClassName=QUTMS-TSAL-LEDs Member=Component P2 Header 4
